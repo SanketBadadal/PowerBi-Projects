@@ -9,7 +9,6 @@ Welcome to my PowerBI Showcase GitHub repository! Here, you'll find an interaciv
 - [Features](#features)
 - [Dashboard Insights](#dashboard-insights)
 - [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
-- [Getting Started](#getting-started)
 
 ## Introduction
 This project presents a dynamic and interactive dashboard developed in PowerBI, showcasing an analysis of the top Spotify songs from 2018 to 2023. Utilizing a comprehensive dataset from kaggle, the dashboard provides insights into trends in music preferences, artist popularity, and song characteristics over the years. The aim is to offer users a detailed overview of the evolving music landscape, highlighting key metrics such as energy levels, average stream counts per year, and top artists. This tool is designed for music enthusiasts, industry analysts, and anyone interested in understanding the dynamics of popular music through data visualization.
@@ -51,9 +50,6 @@ The dashboard features several KPIs to aid in the analysis:
 7. **Track Count**
    - Counts the total number of unique tracks in the dataset, providing a sense of the dataset's diversity.
 
-## Getting Started
-
-These instructions will guide you through setting up and running the Spotify Data Analysis Dashboard on your local machine. This project is ideal for those interested in music trends, data analysis, and visualization with PowerBI and Python.
 
 ### PowerBI Dashboard
 1. **Opening the Dashboard**: After completing the installation and setup, open the PowerBI Desktop application and load the `.pbix` file provided in the repository. This file contains the pre-built dashboard.
